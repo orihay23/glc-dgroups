@@ -4,6 +4,9 @@
 [Home](/)
 # {{ $page.title }}
 
+
+<demo-1/>
+
 [[toc]]
 
 {{ $page }}
